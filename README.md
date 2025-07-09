@@ -10,7 +10,7 @@
 
 ## 🔭 What I’m working on
 
-- 🌱  **Python** enjoyer
+- 🌱  **Python** specialist
 - Will be learning C, C++, Rust in the future ! 
 - 🔧 Currently building **Lift**, a iOS App software that generates data on sports sessions
 
