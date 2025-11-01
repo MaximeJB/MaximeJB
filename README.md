@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maxime
 
-## 💖 About Me
+## 🧠 About Me
 
 - 🚀 I’m a student in Software Engineering 
 - 🤝 I have experience with cinema projection software
