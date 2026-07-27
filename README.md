@@ -1,8 +1,8 @@
-# Hi 👋, I'm Maxime
+# Hi 👋, I'm Mewt
 
 ## 🧠 About Me
 
-- 🚀 I’m a student in Software Engineering 
+- 🚀 I'm a Software Engineer for a large corp in FR
 - 🤝 I have experience with cinema projection software
 - 🎨 I enjoy working with data and complex Python programs, the more complex it is, the more fun I have!
 
@@ -11,15 +11,15 @@
 ## 🔭 What I’m working on
 
 - 🌱  **Python** specialist
-- Will be learning C, C++, Rust in the future ! 
-- 🔧 Currently building **Lift**, a iOS App software that generates data on sports sessions
+- Will be learning Java, C++, Rust in the future ! 
+- 🔧 Currently building **Lift**, a iOS App software that generates data on sports workout session
 
 ---
 
 ## 📫 How to reach me
 
 
-- Email: `maxym.jb@gmail.com`
+- Twitter: `@Mew7t`
 
 ---
 
