@@ -1,10 +1,10 @@
-# Hi 👋, I'm Mewt
+# Hi 👋, I'm Maxime
 
 ## 🧠 About Me
 
-- 🚀 I'm a Software Engineer for a large corp in FR
+- 🚀 I'm a Software Engineer for a public corp in France
 - 🤝 I have experience with cinema projection software
-- 🎨 I enjoy working with data and complex Python programs, the more complex it is, the more fun I have!
+- 🎨 I enjoy working with data and complex Python programs, the more complex it is, the more fun i have.
 
 ---
 
